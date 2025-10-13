@@ -1,13 +1,13 @@
 {
-    'name': 'GymFlow Membership',
-    'summary': 'Simple app to manage gym members and subscription plans.',
+    'name': 'نادي المكنات الرياضي',
+    'summary': 'تطبيقنا يُتيح لأعضاء النادي تسجيل الدخول لتتبع بياناتهم، ويُسجّل معلومات الأعضاء والمدربين بسهولة.',
     'description': 'Tracks member details, selected plan (Daily/Monthly/etc.), and automatically calculates expiration dates and status.',
-    'author': 'Your Team',
+    'author': 'Eltabri Mohammed, Ahmed Khalid, Ahmed Abbas',
     'version': '18.0.1.0.0',
-    'category': 'Extra Tools',
+    'category': 'رياضي',
     'depends': [
         'base',
-        'mail', # ADDED: Required for mail.thread and mail.activity.mixin inheritance
+        'mail', 
     ],
     'data': [
         'security/ir.model.access.csv',
