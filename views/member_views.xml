@@ -3,7 +3,7 @@
     <!-- Root Menu for Gym Management -->
     <menuitem 
         id="menu_gym_root" 
-        name="GymFlow Manager" 
+        name="نادي المكنات الرياضي" 
         sequence="10"/>
         
 
@@ -144,5 +144,6 @@
         </field>
     </record>
 </odoo>
+
 
 
